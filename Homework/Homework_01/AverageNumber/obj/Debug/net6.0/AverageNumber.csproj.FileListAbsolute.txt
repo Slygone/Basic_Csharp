@@ -1,0 +1,15 @@
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\AverageNumber\bin\Debug\net6.0\AverageNumber.exe
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\AverageNumber\bin\Debug\net6.0\AverageNumber.deps.json
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\AverageNumber\bin\Debug\net6.0\AverageNumber.runtimeconfig.json
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\AverageNumber\bin\Debug\net6.0\AverageNumber.dll
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\AverageNumber\bin\Debug\net6.0\AverageNumber.pdb
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\AverageNumber\obj\Debug\net6.0\AverageNumber.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\AverageNumber\obj\Debug\net6.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\AverageNumber\obj\Debug\net6.0\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\AverageNumber\obj\Debug\net6.0\AverageNumber.dll
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\AverageNumber\obj\Debug\net6.0\refint\AverageNumber.dll
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\AverageNumber\obj\Debug\net6.0\AverageNumber.pdb
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\AverageNumber\obj\Debug\net6.0\AverageNumber.genruntimeconfig.cache
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\AverageNumber\obj\Debug\net6.0\ref\AverageNumber.dll

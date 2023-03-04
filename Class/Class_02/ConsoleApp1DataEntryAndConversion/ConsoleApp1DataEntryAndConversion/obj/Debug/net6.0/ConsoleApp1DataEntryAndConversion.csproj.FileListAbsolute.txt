@@ -1,0 +1,15 @@
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_02\ConsoleApp1DataEntryAndConversion\ConsoleApp1DataEntryAndConversion\bin\Debug\net6.0\ConsoleApp1DataEntryAndConversion.exe
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_02\ConsoleApp1DataEntryAndConversion\ConsoleApp1DataEntryAndConversion\bin\Debug\net6.0\ConsoleApp1DataEntryAndConversion.deps.json
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_02\ConsoleApp1DataEntryAndConversion\ConsoleApp1DataEntryAndConversion\bin\Debug\net6.0\ConsoleApp1DataEntryAndConversion.runtimeconfig.json
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_02\ConsoleApp1DataEntryAndConversion\ConsoleApp1DataEntryAndConversion\bin\Debug\net6.0\ConsoleApp1DataEntryAndConversion.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_02\ConsoleApp1DataEntryAndConversion\ConsoleApp1DataEntryAndConversion\bin\Debug\net6.0\ConsoleApp1DataEntryAndConversion.pdb
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_02\ConsoleApp1DataEntryAndConversion\ConsoleApp1DataEntryAndConversion\obj\Debug\net6.0\ConsoleApp1DataEntryAndConversion.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_02\ConsoleApp1DataEntryAndConversion\ConsoleApp1DataEntryAndConversion\obj\Debug\net6.0\ConsoleApp1DataEntryAndConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_02\ConsoleApp1DataEntryAndConversion\ConsoleApp1DataEntryAndConversion\obj\Debug\net6.0\ConsoleApp1DataEntryAndConversion.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_02\ConsoleApp1DataEntryAndConversion\ConsoleApp1DataEntryAndConversion\obj\Debug\net6.0\ConsoleApp1DataEntryAndConversion.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_02\ConsoleApp1DataEntryAndConversion\ConsoleApp1DataEntryAndConversion\obj\Debug\net6.0\ConsoleApp1DataEntryAndConversion.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_02\ConsoleApp1DataEntryAndConversion\ConsoleApp1DataEntryAndConversion\obj\Debug\net6.0\ConsoleApp1DataEntryAndConversion.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_02\ConsoleApp1DataEntryAndConversion\ConsoleApp1DataEntryAndConversion\obj\Debug\net6.0\refint\ConsoleApp1DataEntryAndConversion.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_02\ConsoleApp1DataEntryAndConversion\ConsoleApp1DataEntryAndConversion\obj\Debug\net6.0\ConsoleApp1DataEntryAndConversion.pdb
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_02\ConsoleApp1DataEntryAndConversion\ConsoleApp1DataEntryAndConversion\obj\Debug\net6.0\ConsoleApp1DataEntryAndConversion.genruntimeconfig.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_02\ConsoleApp1DataEntryAndConversion\ConsoleApp1DataEntryAndConversion\obj\Debug\net6.0\ref\ConsoleApp1DataEntryAndConversion.dll

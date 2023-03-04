@@ -1,0 +1,15 @@
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_03\Loops\Exercise03\bin\Debug\net6.0\Exercise03.exe
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_03\Loops\Exercise03\bin\Debug\net6.0\Exercise03.deps.json
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_03\Loops\Exercise03\bin\Debug\net6.0\Exercise03.runtimeconfig.json
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_03\Loops\Exercise03\bin\Debug\net6.0\Exercise03.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_03\Loops\Exercise03\bin\Debug\net6.0\Exercise03.pdb
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_03\Loops\Exercise03\obj\Debug\net6.0\Exercise03.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_03\Loops\Exercise03\obj\Debug\net6.0\Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_03\Loops\Exercise03\obj\Debug\net6.0\Exercise03.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_03\Loops\Exercise03\obj\Debug\net6.0\Exercise03.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_03\Loops\Exercise03\obj\Debug\net6.0\Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_03\Loops\Exercise03\obj\Debug\net6.0\Exercise03.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_03\Loops\Exercise03\obj\Debug\net6.0\refint\Exercise03.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_03\Loops\Exercise03\obj\Debug\net6.0\Exercise03.pdb
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_03\Loops\Exercise03\obj\Debug\net6.0\Exercise03.genruntimeconfig.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_03\Loops\Exercise03\obj\Debug\net6.0\ref\Exercise03.dll

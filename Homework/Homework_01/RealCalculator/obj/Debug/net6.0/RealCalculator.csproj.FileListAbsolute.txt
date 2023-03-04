@@ -1,0 +1,15 @@
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\RealCalculator\bin\Debug\net6.0\RealCalculator.exe
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\RealCalculator\bin\Debug\net6.0\RealCalculator.deps.json
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\RealCalculator\bin\Debug\net6.0\RealCalculator.runtimeconfig.json
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\RealCalculator\bin\Debug\net6.0\RealCalculator.dll
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\RealCalculator\bin\Debug\net6.0\RealCalculator.pdb
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\RealCalculator\obj\Debug\net6.0\RealCalculator.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\RealCalculator\obj\Debug\net6.0\RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\RealCalculator\obj\Debug\net6.0\RealCalculator.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\RealCalculator\obj\Debug\net6.0\RealCalculator.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\RealCalculator\obj\Debug\net6.0\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\RealCalculator\obj\Debug\net6.0\RealCalculator.dll
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\RealCalculator\obj\Debug\net6.0\refint\RealCalculator.dll
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\RealCalculator\obj\Debug\net6.0\RealCalculator.pdb
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\RealCalculator\obj\Debug\net6.0\RealCalculator.genruntimeconfig.cache
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_01\RealCalculator\obj\Debug\net6.0\ref\RealCalculator.dll
