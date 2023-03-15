@@ -1,0 +1,15 @@
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\HandlingNulls\obj\Debug\net6.0\HandlingNulls.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\HandlingNulls\obj\Debug\net6.0\HandlingNulls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\HandlingNulls\obj\Debug\net6.0\HandlingNulls.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\HandlingNulls\obj\Debug\net6.0\HandlingNulls.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\HandlingNulls\obj\Debug\net6.0\HandlingNulls.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\HandlingNulls\bin\Debug\net6.0\HandlingNulls.exe
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\HandlingNulls\bin\Debug\net6.0\HandlingNulls.deps.json
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\HandlingNulls\bin\Debug\net6.0\HandlingNulls.runtimeconfig.json
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\HandlingNulls\bin\Debug\net6.0\HandlingNulls.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\HandlingNulls\bin\Debug\net6.0\HandlingNulls.pdb
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\HandlingNulls\obj\Debug\net6.0\HandlingNulls.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\HandlingNulls\obj\Debug\net6.0\refint\HandlingNulls.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\HandlingNulls\obj\Debug\net6.0\HandlingNulls.pdb
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\HandlingNulls\obj\Debug\net6.0\HandlingNulls.genruntimeconfig.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\HandlingNulls\obj\Debug\net6.0\ref\HandlingNulls.dll

@@ -1,0 +1,15 @@
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_03\BonusTask\bin\Debug\net6.0\BonusTask.exe
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_03\BonusTask\bin\Debug\net6.0\BonusTask.deps.json
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_03\BonusTask\bin\Debug\net6.0\BonusTask.runtimeconfig.json
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_03\BonusTask\bin\Debug\net6.0\BonusTask.dll
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_03\BonusTask\bin\Debug\net6.0\BonusTask.pdb
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_03\BonusTask\obj\Debug\net6.0\BonusTask.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_03\BonusTask\obj\Debug\net6.0\BonusTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_03\BonusTask\obj\Debug\net6.0\BonusTask.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_03\BonusTask\obj\Debug\net6.0\BonusTask.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_03\BonusTask\obj\Debug\net6.0\BonusTask.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_03\BonusTask\obj\Debug\net6.0\BonusTask.dll
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_03\BonusTask\obj\Debug\net6.0\refint\BonusTask.dll
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_03\BonusTask\obj\Debug\net6.0\BonusTask.pdb
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_03\BonusTask\obj\Debug\net6.0\BonusTask.genruntimeconfig.cache
+C:\Users\Nik\Desktop\Basic_C#\Homework\Homework_03\BonusTask\obj\Debug\net6.0\ref\BonusTask.dll

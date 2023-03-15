@@ -1,0 +1,15 @@
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\retro\bin\Debug\net6.0\retro.exe
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\retro\bin\Debug\net6.0\retro.deps.json
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\retro\bin\Debug\net6.0\retro.runtimeconfig.json
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\retro\bin\Debug\net6.0\retro.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\retro\bin\Debug\net6.0\retro.pdb
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\retro\obj\Debug\net6.0\retro.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\retro\obj\Debug\net6.0\retro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\retro\obj\Debug\net6.0\retro.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\retro\obj\Debug\net6.0\retro.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\retro\obj\Debug\net6.0\retro.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\retro\obj\Debug\net6.0\retro.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\retro\obj\Debug\net6.0\refint\retro.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\retro\obj\Debug\net6.0\retro.pdb
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\retro\obj\Debug\net6.0\retro.genruntimeconfig.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_06\retro\obj\Debug\net6.0\ref\retro.dll

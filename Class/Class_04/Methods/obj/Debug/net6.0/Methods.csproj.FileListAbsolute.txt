@@ -1,0 +1,15 @@
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_04\Methods\bin\Debug\net6.0\Methods.exe
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_04\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_04\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_04\Methods\bin\Debug\net6.0\Methods.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_04\Methods\bin\Debug\net6.0\Methods.pdb
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_04\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_04\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_04\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_04\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_04\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_04\Methods\obj\Debug\net6.0\Methods.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_04\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_04\Methods\obj\Debug\net6.0\Methods.pdb
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_04\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_04\Methods\obj\Debug\net6.0\ref\Methods.dll

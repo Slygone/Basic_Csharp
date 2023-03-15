@@ -19,12 +19,12 @@
 //int fourthNumber;
 //bool fourthSuccess = int.TryParse(fourthInput, out fourthNumber);
 
-////validate if inputs are numbers
+//validate if inputs are numbers
 //if (firstSuccess && secondSuccess && thirdSuccess && fourthSuccess)
 //{
-//    //add the 4 inputs and divide by 4 to get average
+//    add the 4 inputs and divide by 4 to get average
 //    int result = (firstNumber + secondNumber + thirdNumber + fourthNumber) / 4;
-//    //print the result
+//    print the result
 //    Console.WriteLine("The average is: " + result);
 //}
 //else
