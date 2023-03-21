@@ -1,0 +1,12 @@
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08\EmployeeApp.Domain\bin\Debug\net6.0\EmployeeApp.Domain.deps.json
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08\EmployeeApp.Domain\bin\Debug\net6.0\EmployeeApp.Domain.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08\EmployeeApp.Domain\bin\Debug\net6.0\EmployeeApp.Domain.pdb
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08\EmployeeApp.Domain\obj\Debug\net6.0\EmployeeApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08\EmployeeApp.Domain\obj\Debug\net6.0\EmployeeApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08\EmployeeApp.Domain\obj\Debug\net6.0\EmployeeApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08\EmployeeApp.Domain\obj\Debug\net6.0\EmployeeApp.Domain.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08\EmployeeApp.Domain\obj\Debug\net6.0\EmployeeApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08\EmployeeApp.Domain\obj\Debug\net6.0\EmployeeApp.Domain.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08\EmployeeApp.Domain\obj\Debug\net6.0\refint\EmployeeApp.Domain.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08\EmployeeApp.Domain\obj\Debug\net6.0\EmployeeApp.Domain.pdb
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08\EmployeeApp.Domain\obj\Debug\net6.0\ref\EmployeeApp.Domain.dll

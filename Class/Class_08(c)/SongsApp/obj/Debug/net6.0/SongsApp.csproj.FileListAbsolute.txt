@@ -1,0 +1,5 @@
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08(c)\SongsApp\obj\Debug\net6.0\SongsApp.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08(c)\SongsApp\obj\Debug\net6.0\SongsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08(c)\SongsApp\obj\Debug\net6.0\SongsApp.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08(c)\SongsApp\obj\Debug\net6.0\SongsApp.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_08(c)\SongsApp\obj\Debug\net6.0\SongsApp.csproj.CoreCompileInputs.cache
