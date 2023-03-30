@@ -3,3 +3,10 @@ C:\Users\Nik\Desktop\Basic_C#\Class\Class_10\MovieApp.Domian\obj\Debug\net6.0\Mo
 C:\Users\Nik\Desktop\Basic_C#\Class\Class_10\MovieApp.Domian\obj\Debug\net6.0\MovieApp.Domain.AssemblyInfoInputs.cache
 C:\Users\Nik\Desktop\Basic_C#\Class\Class_10\MovieApp.Domian\obj\Debug\net6.0\MovieApp.Domain.AssemblyInfo.cs
 C:\Users\Nik\Desktop\Basic_C#\Class\Class_10\MovieApp.Domian\obj\Debug\net6.0\MovieApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_10\MovieApp.Domian\bin\Debug\net6.0\MovieApp.Domain.deps.json
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_10\MovieApp.Domian\bin\Debug\net6.0\MovieApp.Domain.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_10\MovieApp.Domian\bin\Debug\net6.0\MovieApp.Domain.pdb
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_10\MovieApp.Domian\obj\Debug\net6.0\MovieApp.Domain.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_10\MovieApp.Domian\obj\Debug\net6.0\refint\MovieApp.Domain.dll
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_10\MovieApp.Domian\obj\Debug\net6.0\MovieApp.Domain.pdb
+C:\Users\Nik\Desktop\Basic_C#\Class\Class_10\MovieApp.Domian\obj\Debug\net6.0\ref\MovieApp.Domain.dll
